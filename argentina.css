@@ -1,0 +1,32 @@
+img {
+    width: 300px;
+}
+
+h1 {
+    color: #480349e9;
+    text-align: center;
+    font-family: Century;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+body {
+    font-family:'Roboto', sans-serif;
+    color: #2A1330;
+    width: 100%;
+    margin: 0 auto;
+    text-align:center;
+
+}
+button{
+    font-size:15px;
+    font-family:Century;
+    text-align:center;
+    background-color:#ffdd03;
+    border:4px solid #08023d;
+    margin:50px 0px 0px 50px;
+    border-radius:20px;
+    width: 124px;
+    height: 80px;
+    color: #130113e9;
+    }
